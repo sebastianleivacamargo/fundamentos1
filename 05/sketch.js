@@ -448,12 +448,12 @@ function draw() {
   pop();
 
 
-  //   push();
-  //   if (miSegundo == 59) {
-  //     fill('pink');
-  //     arc(300, 300, 580, 200, radians(0), radians(180));
-  //     arc(300, 300, 580, 200, radians(180), radians(0));
-  //     pop();
+    push();
+    if (miSegundo == 59) {
+      fill('pink');
+      arc(300, 300, 580, 200, radians(0), radians(180));
+      arc(300, 300, 580, 200, radians(180), radians(0));
+    pop();
 
-
+    }
 }
