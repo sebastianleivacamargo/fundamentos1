@@ -6,3 +6,4 @@
 5. [Tiempo](https://sebastianleivacamargo.github.io/fundamentos1/05)
 6. [Lust](https://sebastianleivacamargo.github.io/fundamentos1/06)
 7. [Galaxy War](https://sebastianleivacamargo.github.io/fundamentos1/07)
+8. [Conflicto Armado](https://sebastianleivacamargo.github.io/fundamentos1/CONFLICTO%20ARMADO)
